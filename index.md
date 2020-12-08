@@ -11,7 +11,7 @@ Debugging tools like Junit/Mockito, Enzyme/Moxios, Code Optimizations, SDLC (Sof
 
 # PROFESSIONAL EXPERIENCE
 
-##Full Stack Developer 
+## Full Stack Developer 
 
 <h4>Mercury System Inc.</h4>	
 						
